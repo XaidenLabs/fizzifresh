@@ -34,3 +34,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# next.js agent rules - auto-generated
+AGENTS.md
+CLAUDE.md
+
+# local env / secrets
+.env
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
